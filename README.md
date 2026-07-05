@@ -30,3 +30,9 @@ Geriye kalanların listesi aşağıda, kalanları sen yapacaksın, o da seni izl
 - [ ] `Products.jsx`de useContexti kullanarak CartContext nesnesini bu hooka ver. addItem bilgisini al.
 
 - [ ] cart bilgilerini localStorageda `s11d1` anahtarı ile sakla. (src altında hook klasöründe içinde custom bir hook oluşturabilirsin.)
+
+## Önemli Notlar
+
+- Proje dizinindeki `user.json` dosyasını bulun ve `user_id` alanını NextGen proje ekranında görünen kendi `user_id` değeriniz ile güncelleyin.
+- Geliştirme sırasında testleri izlemek için `npm test` komutunu kullanın.
+- Testleri çalıştırıp skoru NextGen'e kaydetmek için `npm run sendresults` komutunu kullanın.
